@@ -1,9 +1,20 @@
-# Magnetic Client
+# Magnetic Client 🧲
 
-## Setup
+## 📥 HOW TO USE
+To use Magnetic Client, you need to download the latest `.jar` file from the **Releases** section and put it into your Minecraft `mods` folder.
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+## ⚠️ ALPHA
+This client is in an **alpha version**, and because of that, you might experience bugs.
 
-## License
+## ⚡ OPTIMIZATION
+Magnetic Client is currently in its alpha stage, and its optimization is very bad. It is strongly recommended to use this client alongside other optimization mods like **Sodium**.
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## 👨‍💻 WHO CREATED IT?
+* Me (`h3v3n`, TikTok: `@spokookokspoko`)
+* Claude & Gemini (Yes, AI helped me, and I don't care if you hate me for that lol)
+
+## ✨ WHAT DOES IT OFFER?
+Magnetic Client offers beautiful visual effects similar to popular hacked clients, but remember that **Magnetic Client is NOT a hacking client**.
+
+## 💬 CONTACT
+If you have any questions about my Minecraft client, you can send me messages on my TikTok profile!
