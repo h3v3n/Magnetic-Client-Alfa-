@@ -1,7 +1,7 @@
 # Magnetic Client 🧲 **Minecraft version 1.21.11 only**
 
 ## 📥 HOW TO USE
-To use Magnetic Client, you need to download the latest `.jar` file from the **Releases** section and put it into your Minecraft `mods` folder.
+To use Magnetic Client, you need to download the latest `.jar` file from the **Releases** section and put it into your Minecraft `mods` folder also you need to download fabric api.
 
 ## ⚠️ ALPHA
 This client is in an **alpha version**, and because of that, you might experience bugs.
