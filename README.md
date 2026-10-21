@@ -1,4 +1,4 @@
-# Magnetic Client 🧲
+# Magnetic Client 🧲 **Minecraft version 1.21.11 only**
 
 ## 📥 HOW TO USE
 To use Magnetic Client, you need to download the latest `.jar` file from the **Releases** section and put it into your Minecraft `mods` folder.
