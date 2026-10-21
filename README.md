@@ -18,3 +18,5 @@ Magnetic Client offers beautiful visual effects similar to popular hacked client
 
 ## 💬 CONTACT
 If you have any questions about my Minecraft client, you can send me messages on my TikTok profile!
+
+PLEASE REMEMBER THAT THIS PROJECT IS 100% JUST FOR FUN IM MAKING IT MOSTLY AFTER SCHOOL ITS NOT GONNA BE A BIG PROJECT LIKE LUNAR CLIENT BUT THIS DOESNT MEAN YOU CANT TRY IT!
